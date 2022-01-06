@@ -14,6 +14,89 @@ Objetivos específicos:
 # 2) Marco Teorico
 
 
+ ANÁLISIS DE RAMAS, LAZOS Y NODOS.
+ 
+ECUACIONES SIMULTÁNEAS EN EL ANÁLISIS DE CIRCUITOS
+
+Para las ecuaciones simultáneas, existen formas de resolverlas, como son los sistemas de ecuaciones, que presentan en su estructura ‘n’ ecuaciones con ‘n’ incógnitas cada una. Así, se pueden encontrar valores desconocidos. Existen diferentes formas de resolver sistemas de ecuaciones: sustitución, determinantes y mediante calculadora.
+Solución por sustitución: Al tener por ejemplo dos ecuaciones con dos incógnitas, se puede despejar una incógnita de una ecuación, para reemplazar el despeje en la segunda ecuación.
+
+
+“FIGURA 1”
+Solución por determinantes: El sistema de ecuaciones se resuelve mediante matrices, que es un arreglo de números en forma de filas y columnas; las determinantes son las cantidades representativas de cada matriz.
+“FIGURA 2 Y 3”
+Solución mediante calculadora: Cada calculadora tiene la opción de resolver el sistema de ecuaciones mediante los métodos descritos anteriormente.
+
+MÉTODO DE LA CORRIENTE EN RAMAS
+Este método permite calcular las corrientes en cada rama del circuito. Al calcular las corrientes, se pueden saber los voltajes.
+“FIGURA 4”
+
+MÉTODO DE LA CORRIENTE DE LAZO
+Este método utiliza las corrientes que circulan por cada lazo del circuito y no por cada rama. A diferencia de las corrientes de ramas, las corrientes de lazo son cantidades matemáticas y no físicas, es decir, que sólo sirven para el estudio del circuito.
+Para aplicar el método, primero se debe establecer la dirección para donde circula la corriente, de preferencia debe ser el sentido horario, luego indicar las polaridades de las caídas de voltaje, posteriormente aplicar la ley de las corrientes de Kirchoff, y por último resolver el sistema de ecuaciones.
+
+MÉTODO DEL VOLTAJE EN NODOS
+En este método se determinan los voltajes en cada nodo del circuito. Para realizar este método, se debe establecer un nodo de referencia, que servirá para calcular los demás voltajes en los otros nodos.
+“FIGURA 5”
+
+MAGNETISMO Y ELECTROMAGNETISMO
+EL CAMPO MAGNÉTICO
+Es un conjunto de línea de fuerza que actúan en un imán permanente. Cuando un imán se acerca a un material no magnético como papel o vidrio, las líneas de fuerza no se alteran; pero cuando se acerca a un material magnético como una placa de hierro, las líneas se alteran.
+“FIGURA 6”
+Flujo magnético: Es el conjunto de líneas de fuerza que se dirigen del polo norte al polo sur del imán.
+Densidad de flujo magnético: es la cantidad de flujo por unidad de área perpendicular al campo magnético.
+“FIGURA 7”
+
+ELECTROMAGNETISMO
+Es la producción de un campo magnético a través de corriente de un conductor. Las líneas de fuerza alrededor del conductor son circulares, ya que en el conductor no existen los polos norte y sur de un imán. Las líneas de fuerza son invisibles, pero producen fenómenos que pueden ser visibles.
+Regla de la mano derecha: La dirección de las líneas de fuerza está dada por los dedos que sujetan el conductor
+“FIGURA 8”.
+Propiedades electromagnéticas
+-Permeabilidad: Es la facilidad con que un campo magnético puede ser establecido en un material
+Dado. “FIGURA 9”
+-Reluctancia: Es la oposición al establecimiento de un campo magnético en un material
+“FIGURA 10”
+-Fuerza magnetomotriz: Es la causa de un campo magnético.
+Fm=NI
+donde Fm es la fuerza magnetomotriz, N es el número de vueltas de conductor, e I es la corriente
+en amperes.
+DISPOSITIVOS ELECTROMAGNÉTICOS
+-El solenoide: Consiste en una bobina cilíndrica de hilo arrollado alrededor de una forma hueca
+no magnética. Un núcleo de hierro estacionario está fijo en el extremo de la flecha y un núcleo
+de hierro deslizante (émbolo) está unido al núcleo estacionario por medio de un resorte.
+“FIGURA 11”
+-La válvula solenoide: “FIGURA 12”
+-El relevador: se utiliza para abrir o cerrar contactos eléctricos
+“FIGURA 13”
+-El altavoz: convierte señales eléctricas en ondas sonoras. “FIGURA 14”
+-Movimiento de medidor: “FIGURA 15”
+
+HISTÉRESIS MAGNÉTICA
+Intensidad de campo magnético: se define como la fuerza magnetomotriz (Fm) por unidad de longitud (l) del material. “FIGURA 16”.
+La curva de histéresis y retentividad: La histéresis es una característica de un material magnético por la cual un cambio de magnetización retrasa la aplicación de la intensidad de campo magnético.
+
+INDUCCIÓN ELECTROMAGNÉTICA
+Movimiento relativo: Se produce cuando un conductor se mueve a través de un campo magnético, o un campo magnético sobrepasa un conductor estacionario. Esto produce un voltaje inducido en el conductor. “FIGURA 17”
+
+Polaridad del voltaje inducido
+“FIGURA 18”
+
+Corriente inducida: “FIGURA 19”
+
+Ley de Faraday:
+1. La cantidad de voltaje inducido en una bobina es directamente proporcional a la rapidez de cambio del campo magnético con respecto a la bobina (df/dt).
+2. La cantidad de voltaje inducido en una bobina es directamente proporcional al número de vueltas de alambre que hay en la bobina (N).
+“FIGURA 20”
+
+Ley de Lenz: “Cuando la corriente que pasa a través de una bobina cambia, se crea un voltaje inducido a consecuencia del campo electromagnético cambiante y la polaridad del voltaje inducido
+es tal que siempre se opone al cambio de corriente”
+
+APLICACIONES DE LA INDUCCIÓN ELECTROMAGNÉTICA
+-Sensor de posición de un cigüeñal automotriz
+“FIGURA 21”
+
+-Generador de CD
+“FIGURA 22”
 
 
 # 3)Explicacion y resolucion de ejercicios.
