@@ -460,13 +460,18 @@ núcleo?
 ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%206.PNG)
 
 Al aplicar una fuerza magnetizante al material
+
+
 17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+
 
 ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%207.PNG)
 
+
 El material A, ya que su valor de densidad de flujo se acerca más al valor de densidad residual.
-19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular
-al campo magnético?
+
+
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular   al campo magnético?
 
 Densidad de flujo (B), longitud del conductor(l) expuesta al campo magnético, y la velocidad a la cual el conductor y el campo magnético se mueven uno con respecto al otro.
 
