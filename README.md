@@ -128,7 +128,7 @@ I1 = I2 + I3
 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique
 la polaridad real.
 
-V1 = 5.66 V, V2 = 6.33 V, V3 = 325 mV
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/12226dd0b5f5eeff4cc70090e0fe58bc6159a350/13.jpg)
 
 
 # 4)Video
