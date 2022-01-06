@@ -290,22 +290,35 @@ V=(12/40.47)(68) = 1.84 V
 
 17.- Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28.
  
+ 
+ ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/e275586887f7b3f16145b51b92a89e85e4c4a6ba/imagenes_axel/axelejer_17.png)
 
 Malla 1:
+
 2+1000*i1+3(-i1+i2)=0
+
 2+1000*i1-3*i1+3*i2=0
+
 -560(-i1+i2)+820*i2+6=0
+
 560*i1-560*i2+820*i2=-6
+
 I1=-1,9492x10^-3 A
+
 I2=-0,01887 A
 
 19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 
 Vr1=1000*1,9492x10^-3
+
 Vr1=1,9492v
+
 Vr2=820*(0,01887-1,9492x10^-3)
+
 Vr2=-13,87v
+
 Vr3=560*(-0,01887+1,9492x10^-3)
+
 Vr3=-9,4756v
 
 
@@ -313,50 +326,87 @@ Vr3=-9,4756v
 
 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora.
  
+ ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/e275586887f7b3f16145b51b92a89e85e4c4a6ba/imagenes_axel/axelejer_21.png)
 Malla 1:
+
 1.5+47iA+27(iA-iB)+3=0
+
 4.5+74iA+27iB=0
+
 Malla 2:
+
 -3v-4,7(iB+iC)+15iC+1.5=0
+
 -1.5-10.3iC-4.7iB=0
+
 Malla 3:
+
 1.5-10(iA-iB)+27iB=0
+
 1.5-10iA+17iB=0
 
 IA=-0.0235 A
+
 IB=0.1020 A
+
 IC=0.09904 A
 
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30.
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/e275586887f7b3f16145b51b92a89e85e4c4a6ba/imagenes_axel/axelejer_23.png)
  
 Req1=1/(1/4,7+2,2 +1/8,2+3,9)
+
 Req1=4,3942
+
 Req2=RT=10+4,39=14,39
+
 IT=8/14,39=0,5559 A
+
 Vr1=10*0,559=5,559
+
 VAB=5,559
+
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
  
+ ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/e275586887f7b3f16145b51b92a89e85e4c4a6ba/imagenes_axel/axelejer_25.png)
+
 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente.
+ 
+ ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/e275586887f7b3f16145b51b92a89e85e4c4a6ba/imagenes_axel/axelejer_27.png)
  
 Req1=47+100=147
 
 Malla1:
+
 30-82IA-68(IA-IB)-40=0
+
 -10-150IA-68IB=0
+
 Malla2:
+
 40-68(IB-IA)-147IB=0
+
 40-215IB-68IA=0
+
 CALCULO MEDIANTE SISTEMA DE ECUACIONES:
+
 IA=-0.1762
+
 IB=0,2418
 
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/e275586887f7b3f16145b51b92a89e85e4c4a6ba/imagenes_axel/axelejer_29.png)
+
 9-56K*i1-27k*i1-91k(I1-i2)=0
+
 -174ki1+91ki2=-9
+
 4.5+58(i1-i2)-82(91k(I1-i2)-i3) -15=0
+
 58i1-58i2+82i3-7462i1+7462i2=10,5
+
 -7404i1+7404i2+82i3=10,5
 
 Calculo de sistema de ecuaciones:
@@ -364,7 +414,7 @@ I1=1,0986 lo cual es la correinte que pasa por la resistencia y en los polos de 
 
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
  
-
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/e275586887f7b3f16145b51b92a89e85e4c4a6ba/imagenes_axel/axelejer_31.png)
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
 
@@ -381,8 +431,10 @@ flujo en gauss.
 
 ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%201.png)
 
+
 7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
 750 * 10^6 Wb/At·m?
+
 
 ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%202.jpeg)
 
@@ -437,6 +489,8 @@ El conmutador se encarga de permitir el paso de los electrones a través del gen
 https://youtu.be/LenOVnSkxM8
 
 # 5)Conclusiones
+
+- Dentro de un circuito se puede aplicar teoremas tanto análisis de nodos o el de lazos para determinar corrientes y voltajes, usando también superposición para los cálculos de cantidades desconocidas.
 
 - Las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora, El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff.
 
