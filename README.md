@@ -130,6 +130,11 @@ la polaridad real.
 
 ![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/12226dd0b5f5eeff4cc70090e0fe58bc6159a350/13.jpg)
 
+15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B). 
+
+Reeq=1/(1/68+1/100)=40.47 ohm
+V=(12/40.47)(68) = 1.84 V
+
 
 # 4)Video
 
