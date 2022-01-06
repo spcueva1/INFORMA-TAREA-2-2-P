@@ -166,20 +166,27 @@ APLICACIONES DE LA INDUCCIÓN ELECTROMAGNÉTICA
 1. Ecuaciones simultáneas en el análisis de circuitos 1. Con el método de sustitución, resuelva el siguiente conjunto de ecuaciones para IR1 e IR2.
 
 100 I1 + 50 I2 = 30 
+
 75 I1 + 90 I2 = 15
 
 I1 = ( 30 - 50 I2 ) / 100
 
 75 ( ( 30 - 50 I2 ) / 100 ) + 90 I2 = 15
+
 75* 3/10 - 75/2 I2 + 90 I2 = 15
+
 22.5 + 52.5 I2 = 15
+
 I2 = -7.5 / 52.5
+
 I2= -0,1428 A
 
-
 100 I1 + 50 (-0,1428) = 30 
+
 100 I1 - 7.14 = 30
+
 I1 = 37.14 / 100
+
 I1 = 0,3714 A
 
 
