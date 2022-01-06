@@ -344,6 +344,64 @@ Reeq=1/(1/68+1/100)=40.47 ohm
 V=(12/40.47)(68) = 1.84 V
 
 
+AXEL ____
+
+5. Un imán permanente muy fuerte tiene un campo magnético de 100,000 mT. Exprese esta densidad de
+flujo en gauss.
+
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%201.png)
+
+7. ¿Cuál es la permeabilidad relativa de un material ferromagnético cuya permeabilidad absoluta es de
+750 * 10^6 Wb/At·m?
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%202.jpeg)
+
+
+9. ¿Cuál es la fuerza magnetomotriz en una bobina de 50 vueltas de hilo cuando hay 3 A de corriente a
+través de él?
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%203.jpeg)
+
+11. (a) ¿Qué fuerza mueve el émbolo de imán cuando se activa un solenoide?
+(b) ¿Qué fuerza hace que el émbolo de imán regrese a su posición de reposo?
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%204.jpeg)
+
+13. ¿Qué ocasiona que la aguja instalada en un movimiento de d’Arsonval se deflexione cuando circula corriente
+a través de la bobina?
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%205.jpeg)
+
+15. ¿Cómo se puede cambiar la densidad de flujo en la figura 10-44 sin alterar las características físicas del
+núcleo?
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%206.PNG)
+
+Al aplicar una fuerza magnetizante al material
+17. Determine a partir de las curvas de histéresis mostradas en la figura 10-45 qué material tiene más retentividad.
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%207.PNG)
+
+El material A, ya que su valor de densidad de flujo se acerca más al valor de densidad residual.
+19. ¿Cuáles son los tres factores que determinan el voltaje en un conductor que se mueve en dirección perpendicular
+al campo magnético?
+
+Densidad de flujo (B), longitud del conductor(l) expuesta al campo magnético, y la velocidad a la cual el conductor y el campo magnético se mueven uno con respecto al otro.
+
+21. ¿Cómo complementa la ley de Lenz a la ley de Faraday?
+
+La ley de Faraday establece el voltaje inducido en una bobina con un determinado número de vueltas y la velocidad de cambio del flujo magnético, y la ley de Lenz establece la dirección del voltaje inducido
+
+23. Explique el propósito del conmutador y de las escobillas en la figura 10-35.
+
+El conmutador se encarga de permitir el paso de los electrones a través del generador de CD, y las escobillas se encargan de producir un campo magnético.
+
+25. Suponga que se agrega otra espira, a 90 grados de la primera, al generador de cd del problema 24. Trace una gráfica del voltaje contra el tiempo para mostrar cómo aparece el voltaje de salida. Sea de 10 V el voltaje máximo.
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/33ef240bdb6cd2fa1a9436b572074d030ecb5a44/Im%C3%A1genes%20tarea%209-10/FIGURA%208.PNG)
+
+
 # 4)Video
 
 https://youtu.be/LenOVnSkxM8
