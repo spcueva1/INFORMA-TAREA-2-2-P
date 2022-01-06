@@ -410,9 +410,9 @@ https://youtu.be/LenOVnSkxM8
 
 - Las ecuaciones simultáneas pueden ser resueltas por sustitución, por determinantes, o con una calculadora graficadora, El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff.
 
-- 
+- Se analizaron los principios de operación de cada uno de los dispositivos electromagnéticos, con los cuales se pueden realizar grandes proyectos que se enfoquen al uso del electromagnetismo
 
-- 
+- Las aplicaciones de la inducción electromagnética se describieron con ayuda de los principios y  leyes que se estudiaron en el capítulo, y permiten conocer más a fondo todas las propiedades y características que se pueden aprovechar para construir diversos dispositivos electromagnéticos.
 # 6)Bibliografia
 
 - Floyd, T. (2007). Voltaje, corriente y resistencia. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 16-71). Pearson Educación. Floyd, T. (2007). Cantidades y unidades. En L. M. Cruz Castillo (Ed.), Principios de Circuitos Eléctricos (VIII ed., pp. 1-15). Pearson Educación Abreu, R. (2005). Fuentes de alimentación conmutadas. El1313-Electrónica III 2005, 4,5. http://www.el.bqto.unexpo.edu.ve/rabreu/Electronica3/Clase9.pdf
