@@ -21,7 +21,9 @@ ECUACIONES SIMULTÁNEAS EN EL ANÁLISIS DE CIRCUITOS
 Para las ecuaciones simultáneas, existen formas de resolverlas, como son los sistemas de ecuaciones, que presentan en su estructura ‘n’ ecuaciones con ‘n’ incógnitas cada una. Así, se pueden encontrar valores desconocidos. Existen diferentes formas de resolver sistemas de ecuaciones: sustitución, determinantes y mediante calculadora.
 Solución por sustitución: Al tener por ejemplo dos ecuaciones con dos incógnitas, se puede despejar una incógnita de una ecuación, para reemplazar el despeje en la segunda ecuación.
 
-![](https://github.com/spcueva1/INFORMA-TAREA-2-2 P/blob/2fe827e591b92d4d00364802211b07ce7016da9d/Imagenes%20resumen/FIGURA%201.PNG)
+
+![](https://github.com/spcueva1/INFORMA-TAREA-2-2-P/blob/bfb6cf1a0487295c9f393e764696005b0bcbd183/Imagenes%20resumen/FIGURA%201.PNG)
+
 
 Solución por determinantes: El sistema de ecuaciones se resuelve mediante matrices, que es un arreglo de números en forma de filas y columnas; las determinantes son las cantidades representativas de cada matriz.
 
