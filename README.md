@@ -492,7 +492,7 @@ El conmutador se encarga de permitir el paso de los electrones a través del gen
 # 4)Video
 
 
-https://youtu.be/LenOVnSkxM8
+https://www.youtube.com/watch?v=TkJTO6C6f1w
 
 # 5)Conclusiones
 
